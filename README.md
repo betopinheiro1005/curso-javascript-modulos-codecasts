@@ -1,8 +1,7 @@
 # Curso de Javascrit - Módulos  
 ## CODECASTS (Vinicius Reis)  
 
-### Link dos vídeos  
-<https://www.youtube.com/watch?v=fPuXy-uTy3Y&list=PLy5T05I_eQYNs5FHlBGLyUA1GP7LEIcUL>
+### [Vídeos do curso](https://www.youtube.com/watch?v=fPuXy-uTy3Y&list=PLy5T05I_eQYNs5FHlBGLyUA1GP7LEIcUL) 
 
 ### Lista de aulas  
 
